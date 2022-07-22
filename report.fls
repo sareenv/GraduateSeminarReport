@@ -676,9 +676,47 @@ INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./chapters/abstract.tex
+INPUT ./chapters/abstract.tex
+INPUT ./chapters/abstract.tex
+INPUT chapters/abstract.tex
+INPUT ./chapters/abstract.tex
+INPUT ./chapters/abstract.tex
+INPUT chapters/abstract.tex
+INPUT ./report.toc
+INPUT report.toc
+INPUT report.toc
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+OUTPUT report.toc
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./chapters/introduction.tex
+INPUT ./chapters/introduction.tex
+INPUT ./chapters/introduction.tex
+INPUT chapters/introduction.tex
+INPUT ./chapters/introduction.tex
+INPUT ./chapters/introduction.tex
+INPUT chapters/introduction.tex
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./chapters/background.tex
+INPUT ./chapters/background.tex
+INPUT ./chapters/background.tex
+INPUT chapters/background.tex
+INPUT ./chapters/background.tex
+INPUT ./chapters/background.tex
+INPUT chapters/background.tex
 INPUT report.aux
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /Users/databunker/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
