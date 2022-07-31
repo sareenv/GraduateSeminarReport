@@ -1,11 +1,13 @@
 \documentclass[]{report}
 \usepackage{fancyhdr}
+\usepackage{longtable}
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage[semicolon]{natbib}
 \usepackage{amsmath}
 \usepackage{adjustbox}
 \usepackage{babel,blindtext}
+\usepackage{setspace}
 
 \usepackage{tikz,pgfplots,pgf}
 \usetikzlibrary{matrix,shapes,arrows,positioning}
@@ -42,15 +44,22 @@
 \chapter*{Abstract}
 \input{chapters/abstract}
 
+\pagebreak
+% \section*{List of Abbreviation}
+% \input{chapters/abbreviations}
+
 % here we need to also have the list of symbols or the abbrevations. 
-
 \tableofcontents
-
+\onehalfspacing
 \chapter{Introduction}
 \input{chapters/introduction}
 
-\chapter{Background}
-\input{chapters/background}
+% \chapter{Background}
+% \input{chapters/background}
 
+\bibliographystyle{IEEEtranN}
+\bibliography{./references/references}
+\pagebreak
+\thispagestyle{plain}
 
 \end{document}
