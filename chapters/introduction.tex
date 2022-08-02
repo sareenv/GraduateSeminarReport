@@ -3,28 +3,32 @@ The problem of breast cancer among women has been a major concern and leading ca
 According to the WHO(World Health Organization) on the global scale around 502,000 cases of breast cancer among women are reported each year \citep*{jelen2008classification}. 
 Furthermore, on the localized national scale, as per the anticipated reports from the Canadian cancer society, 28,600 women will be detected 
 with malignant breast cancer, representing 25\% of the overall new cancer cases detected by the Canadian Cancer Society \citet{CanadianCancerSociety}.
-\paragraph*{}
-Moreover, according to the study conducted in the United Kingdom, the health care agency NHS had reported that 47\% trusts do not have the 
+Furthermore, according to the study conducted in the United Kingdom, the health care agency NHS had reported that 47\% trusts do not have the 
 specialized nurses across the country. The lack of specialized medical staff members who can detect breast cancer at the early stage contributes to higher mortality rates \citep{tan2017breast}. 
 The classical identification methods require the specialist to review the microscopic images of cytological images which is an inefficient manner even for the trained and qualified medical professionals with appropriate domain knowledge.
 The problem can be solved using the automation with the CNN and implying the computer vision algorithms to provide the computer aided solution. Convolutional neural networks, 
 which are specific kinds of artificial neural networks, extract data patterns 
 from the images using the convolutional layers and further pass the extracted features to the fully connected 
-layers of the network to learn the features \citep{wani2020basics}. However, such networks are highly reliant on the large volumes 
-of the datasets with appropriate quality which is difficult to obtain in the real world systems. 
+layers of the network to learn the features \citep{wani2020basics}. 
+However, such networks are highly reliant on the large volumes of the datasets with appropriate quality which is difficult to obtain in the real world. Moreover, 
+another difficulty with training the ANN is that it is highly reliant on the huge dataset with high accuracy and precision for the training and validation phase,
+which in real life scenario is difficult to obtain and cost ineffective solution. The convolutional neural networks also require hyper-parameter tuning
+in order to avoid the overfitting problem in the optimisation step of network training which is a time consuming process 
+and requires domain specialists \citep{srivastava2014dropout}.
 
 
-\pagebreak
+\section{Motivation}
+The primary motivation behind the study is to propose a framework based on the transfer learning for binary classification of breast cancer with the limited cytological training samples. 
+The transfer learning framework has eight steps and provides the mechanism to use the pre-trained model’s features from the histopathological
+images to be used with the cytological images. Traditional analysis of the malignancy of the medical images relies on the manual microscopic analysis performed by the specialists. 
+However, such methods can be applied on the large scale with automated processes which will speed up the process for curing breast cancer as early as possible. 
 
-
-% \section{Motivation/Application}
-% this section contains the motivation to the topic BLAH BLAH BLAH
-% \pagebreak
-
-% \section{Objectives of Study}
-% this section contains the problems associated to the topic BLAH BLAH BLAH
+\section{Objectives of the Study}
+The proposed transfer learning objective of performing superior to the existing solutions in terms of performance with the limited annotated datasamples of cytological images using the domain compatible dataset to avoid high divergence between the source and target models. 
+The proposed framework operates on pre-training the model  on the histopathological images and fine tuning the target model for the binary classification of the cytological samples. 
+Although there exists a significant difference in the histopathological image samples and cytological samples, the same domain and knowledge obtained from the pre-trained models using the BreakHis dataset \citep{spanhol2015dataset} that contains the 7909 images samples of the breast cancer histopathological  with 8 subtypes. The learned model weights are applied to the context of the cytological images. 
 % \pagebreak
 
 % \section{Assumptions and Limitations}
-% this section contains the limitations associated with the project BLAH BLAH BLAH.
+
 % \pagebreak

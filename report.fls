@@ -712,6 +712,15 @@ INPUT ./chapters/abstract.tex
 INPUT chapters/abstract.tex
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./chapters/abbreviations.tex
+INPUT ./chapters/abbreviations.tex
+INPUT ./chapters/abbreviations.tex
+INPUT chapters/abbreviations.tex
+INPUT ./chapters/abbreviations.tex
+INPUT ./chapters/abbreviations.tex
+INPUT chapters/abbreviations.tex
 INPUT ./report.toc
 INPUT report.toc
 INPUT report.toc
@@ -726,8 +735,20 @@ INPUT chapters/introduction.tex
 INPUT ./chapters/introduction.tex
 INPUT ./chapters/introduction.tex
 INPUT chapters/introduction.tex
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
-INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./chapters/contribution.tex
+INPUT ./chapters/contribution.tex
+INPUT ./chapters/contribution.tex
+INPUT chapters/contribution.tex
+INPUT ./chapters/contribution.tex
+INPUT ./chapters/contribution.tex
+INPUT chapters/contribution.tex
+INPUT ./assets/pre-processing.png
+INPUT ./assets/pre-processing.png
+INPUT assets/pre-processing.png
+INPUT ./assets/pre-processing.png
+INPUT ./assets/pre-processing.png
+INPUT ./assets/pre-processing.png
+INPUT ./assets/pre-processing.png
 INPUT ./report.bbl
 INPUT report.bbl
 INPUT ./report.bbl
@@ -750,5 +771,7 @@ INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
 INPUT /Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb
