@@ -8,3 +8,7 @@
 \contentsline {subsection}{\numberline {2.1.1}Color Channel Seperation}{7}{}%
 \contentsline {subsection}{\numberline {2.1.2}Image normalization}{7}{}%
 \contentsline {subsection}{\numberline {2.1.3}Problems with using the UNET segmentation }{8}{}%
+\contentsline {subsection}{\numberline {2.1.4}Intensity Thresholding Segmention}{8}{}%
+\contentsline {chapter}{\numberline {3}Conclusion}{10}{}%
+\contentsline {section}{\numberline {3.1}Conclusion}{10}{}%
+\contentsline {section}{\numberline {3.2}Future Works}{10}{}%

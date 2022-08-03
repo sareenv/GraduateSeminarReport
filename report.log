@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.30)  1 AUG 2022 02:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.30)  3 AUG 2022 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -527,20 +527,20 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count330
@@ -562,17 +562,17 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
- on input line 41.
+ on input line 43.
 
 <assets/concordia-logo.png, id=4, 501.875pt x 501.875pt>
 File: assets/concordia-logo.png Graphic file (type png)
 <use assets/concordia-logo.png>
-Package pdftex.def Info: assets/concordia-logo.png  used on input line 42.
+Package pdftex.def Info: assets/concordia-logo.png  used on input line 44.
 (pdftex.def)             Requested size: 85.35826pt x 85.3559pt.
 [1
 
 {/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map} <./assets/concordia-logo.png>] (chapters/abstract.tex)
-Overfull \hbox (0.13956pt too wide) in paragraph at lines 1--46
+Overfull \hbox (0.13956pt too wide) in paragraph at lines 1--48
 \OT1/cmr/m/n/10 the study is to develop the automated analysis model framework for classification
  []
 
@@ -624,16 +624,31 @@ Underfull \hbox (badness 1331) in paragraph at lines 15--15
  []
 
 
-Overfull \hbox (7.58392pt too wide) in paragraph at lines 17--19
-[]\OT1/cmr/m/n/10 Color channel separation as shown in the figure[1.2] which aims at decomposing
+Overfull \hbox (4.25056pt too wide) in paragraph at lines 18--20
+[]\OT1/cmr/m/n/10 Color channel separation as shown in the figure 2.1[] which aims at decomposing
  []
 
 
-Overfull \hbox (0.90817pt too wide) in paragraph at lines 17--19
+Overfull \hbox (0.90817pt too wide) in paragraph at lines 18--20
 \OT1/cmr/m/n/10 distinct kinds that involve hematoxylin, Eosin and residuals. Upon investigation,
  []
 
-) [7 <./assets/pre-processing.png>] (report.bbl [8]
+[7 <./assets/pre-processing.png>]
+<assets/JaccardSimilarity.png, id=43, 995.72pt x 568.1225pt>
+File: assets/JaccardSimilarity.png Graphic file (type png)
+<use assets/JaccardSimilarity.png>
+Package pdftex.def Info: assets/JaccardSimilarity.png  used on input line 38.
+(pdftex.def)             Requested size: 199.14047pt x 113.62248pt.
+) [8 <./assets/JaccardSimilarity.png>] [9]
+Chapter 3.
+(chapters/conclusion.tex)
+Overfull \hbox (25.66733pt too wide) in paragraph at lines 5--68
+\OT1/cmr/m/n/10 Furthermore, the utilization of the light-weight network is also taken into consideration
+ []
+
+[10
+
+] (report.bbl [11]
 Underfull \hbox (badness 6876) in paragraph at lines 32--35
 []\OT1/cmr/m/n/10 C. C. Society. (2020) Breast cancer statistics. $https : / / cancer . ca / en /
  []
@@ -643,21 +658,21 @@ Underfull \hbox (badness 1466) in paragraph at lines 63--66
 []\OT1/cmr/m/n/10 S. Rashid, ``What is image normalization?'' Oct
  []
 
-) [9
+) [12
 
 ] (report.aux) ) 
 Here is how much of TeX's memory you used:
- 28039 strings out of 478338
- 728966 string characters out of 2833801
- 1126980 words of memory out of 3000000
- 45988 multiletter control sequences out of 15000+600000
+ 28057 strings out of 478338
+ 729543 string characters out of 2833801
+ 1131093 words of memory out of 3000000
+ 46002 multiletter control sequences out of 15000+600000
  476200 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,89p,882b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 84i,11n,89p,1238b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
 </Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (10 pages, 453436 bytes).
+Output written on report.pdf (13 pages, 968678 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 105 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

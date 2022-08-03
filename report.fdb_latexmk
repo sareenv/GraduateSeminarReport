@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex report"] 1659335752 "report.aux" "report.bbl" "report" 1659335888
-  "./references/references.bib" 1659334904 2579 f895b77f130d6bd43013b3c84249b07c ""
+["bibtex report"] 1659561280 "report.aux" "report.bbl" "report" 1659561296
+  "./references/references.bib" 1659468288 2939 cea3e5c044f7fb1b0ad9e4b68c0e909e ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/ieeetran/IEEEtranN.bst" 1659209392 63583 d34cb6c328acc69716207f4a3421ad46 ""
-  "report.aux" 1659335888 2449 cac31ff7b14ecd801509ad294440faf4 "pdflatex"
+  "report.aux" 1659561296 3272 cfff4e0b9a4dfc47dddd7a5f18c98d66 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
-["pdflatex"] 1659335887 "/Users/databunker/Desktop/develop/finalReport/GraduateSeminarReport/report.tex" "report.pdf" "report" 1659335888
+["pdflatex"] 1659561295 "/Users/databunker/Desktop/develop/finalReport/GraduateSeminarReport/report.tex" "report.pdf" "report" 1659561296
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1656347420 1004 54797486969f23fa377b128694d548df ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1656347420 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm" 1656347465 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -185,7 +185,7 @@
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1656347485 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1656347485 56148 51a9a8571c07b9921892ae11063ae853 ""
   "/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1656347485 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "/Users/databunker/Desktop/develop/finalReport/GraduateSeminarReport/report.tex" 1659330286 1584 b6d0196e177aca314978212d257cccbe ""
+  "/Users/databunker/Desktop/develop/finalReport/GraduateSeminarReport/report.tex" 1659473352 1719 edccba2fa10a8d74f1aa7a8a67e2fc74 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1659209899 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1659202436 10333172 d53b820fae89be36cc7a58cf93aa4590 ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex-dev/graphics/mathcolor.ltx" 1659202478 3171 1cf0d440b5464e2f034398ce4ef36f75 ""
@@ -199,16 +199,18 @@
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty" 1659202438 46712 8d4348633d6c3362b9c9a329f0b79b1a ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty" 1659209899 22913 a27d7908fc6f0385466454a966a316eb ""
   "/Users/databunker/Library/Application Support/MiKTeX/texmfs/install/tex/latex/varwidth/varwidth.sty" 1659202477 10894 d359a13923460b2a73d4312d613554c8 ""
+  "assets/JaccardSimilarity.png" 1659469311 625728 00168b460a00d05b18838b069785cd06 ""
   "assets/concordia-logo.png" 1659202404 7735 4be59f9dcd07cb832bd8bd43b614d49b ""
   "assets/pre-processing.png" 1659334394 316905 35fbf1818192b76ecec9af8bd72c0d0a ""
-  "chapters/abbreviations.tex" 1659313798 330 f03b4fa0c3d41a3b601d0191774d32b8 ""
+  "chapters/abbreviations.tex" 1659561294 600 b120bdcd2adf45ccc4757aa1d57f83dc ""
   "chapters/abstract.tex" 1659202783 1764 10d0a5b61ea8f536201bf57298c6555c ""
-  "chapters/contribution.tex" 1659335886 2857 05e749fd070fb958745592c3d412ab93 ""
+  "chapters/conclusion.tex" 1659477885 1729 b0372d95e1335eb8e710a63e8e85730b ""
+  "chapters/contribution.tex" 1659472842 4069 90cf4f7c7db532adb4d043fece5418e1 ""
   "chapters/introduction.tex" 1659333539 3942 8b35d67e0cf0a979d4bb9383e48489c5 ""
-  "report.aux" 1659335888 2449 cac31ff7b14ecd801509ad294440faf4 "pdflatex"
-  "report.bbl" 1659335753 2994 7edc601a4e8cfb1fcfa6b152adaa8ae6 "bibtex report"
-  "report.tex" 1659330286 1584 b6d0196e177aca314978212d257cccbe ""
-  "report.toc" 1659335888 681 786a81d13265b3fec04221fa6b9b6dca "pdflatex"
+  "report.aux" 1659561296 3272 cfff4e0b9a4dfc47dddd7a5f18c98d66 "pdflatex"
+  "report.bbl" 1659561280 3272 e0149980076e6df044a5e60eae0b8451 "bibtex report"
+  "report.tex" 1659473352 1719 edccba2fa10a8d74f1aa7a8a67e2fc74 ""
+  "report.toc" 1659561296 948 f349c19a282fa30541f166ac73077d28 "pdflatex"
   (generated)
   "report.aux"
   "report.log"
