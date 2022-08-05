@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.30)  3 AUG 2022 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.7.30)  5 AUG 2022 13:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -524,7 +524,11 @@ Package fancyhdr Warning: \fancyhead's `E' option without twoside option is usel
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count329
 \l__pdf_internal_box=\box92
-) (report.aux)
+) (report.aux
+
+LaTeX Warning: Label `fig:colorchannelseperation' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -578,7 +582,7 @@ Overfull \hbox (0.13956pt too wide) in paragraph at lines 1--48
 
 [1
 
-] (chapters/abbreviations.tex) [2] (report.toc)
+] (chapters/abbreviations.tex) (chapters/acknote.tex) [2] (report.toc)
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
@@ -587,19 +591,84 @@ Overfull \hbox (0.13956pt too wide) in paragraph at lines 1--48
 ]
 Chapter 1.
 (chapters/introduction.tex
-Overfull \hbox (2.68588pt too wide) in paragraph at lines 2--18
-\OT1/cmr/m/n/10 qualified medical professionals with appropriate domain knowledge. The problem
+Overfull \hbox (7.13039pt too wide) in paragraph at lines 2--15
+\OT1/cmr/m/n/10 computer vision algorithms to provide the computer aided solution. Convolutional
  []
 
 [4
 
 ]
-Overfull \hbox (1.72285pt too wide) in paragraph at lines 21--25
+Overfull \hbox (1.72285pt too wide) in paragraph at lines 18--22
 \OT1/cmr/m/n/10 analysis of the malignancy of the medical images relies on the manual microscopic
  []
 
 ) [5]
 Chapter 2.
+(chapters/background.tex
+Overfull \hbox (9.62633pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/14.4 Traditional Breast Cancer Diagnosis Methods 
+ []
+
+
+Overfull \hbox (14.66727pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 Trained pathologists diagnose breast cancer with specific facilities and equipment[ris
+ []
+
+
+Overfull \hbox (5.49155pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 microarray, biopsy and cytology(Abdeldjalil, 2014). The grading system proposed
+ []
+
+
+Overfull \hbox (14.05632pt too wide) in paragraph at lines 2--6
+\OT1/cmr/m/n/10 between the malignant and benign tumours from the cytological images(Abdeldjalil,
+ []
+
+
+Overfull \hbox (2.93622pt too wide) in paragraph at lines 35--35
+ []\OT1/cmr/m/n/10 Hidden 
+ []
+
+
+Overfull \hbox (3.76958pt too wide) in paragraph at lines 36--36
+ []\OT1/cmr/m/n/10 Output 
+ []
+
+
+Overfull \hbox (5.72295pt too wide) in paragraph at lines 70--78
+\OT1/cmr/m/n/10 perceptron model had the limitation of only being applied to the linearly separable
+ []
+
+[6
+
+]
+<assets/cnn-model_sample.png, id=37, 776.9025pt x 239.89626pt>
+File: assets/cnn-model_sample.png Graphic file (type png)
+<use assets/cnn-model_sample.png>
+Package pdftex.def Info: assets/cnn-model_sample.png  used on input line 83.
+(pdftex.def)             Requested size: 427.29768pt x 131.94334pt.
+
+Overfull \hbox (82.29768pt too wide) in paragraph at lines 83--84
+ [][] 
+ []
+
+
+Overfull \hbox (5.22385pt too wide) in paragraph at lines 85--85
+[]\OT1/cmr/m/n/10 Figure 2.4: Image Credits: $\OML/cmm/m/it/10 en:wikipedia:org=wiki=Convolutional[]eural[]etwork$ 
+ []
+
+[7]
+Overfull \hbox (0.27837pt too wide) in paragraph at lines 96--99
+\OT1/cmr/m/n/10 phase, which in real life scenario is difficult to obtain and cost ineffective solution.
+ []
+
+)
+Overfull \hbox (25.11172pt too wide) in paragraph at lines 102--64
+\OT1/cmr/m/n/10 it reduces the need for huge amounts of data to train the networks from scratch(Seldon,
+ []
+
+[8 <./assets/cnn-model_sample.png>] [9]
+Chapter 3.
 (chapters/contribution.tex
 Overfull \hbox (7.94513pt too wide) in paragraph at lines 1--3
 \OT1/cmr/m/n/10 models on the imageNet, hisbrek dataset and with the random weight initialization
@@ -610,22 +679,22 @@ Overfull \hbox (12.33391pt too wide) in paragraph at lines 5--11
 \OT1/cmr/m/n/10 which involves the following sub-procedures which includes color channel separation
  []
 
-[6
+[10
 
 ]
-<assets/pre-processing.png, id=37, 317.185pt x 330.23375pt>
+<assets/pre-processing.png, id=54, 317.185pt x 330.23375pt>
 File: assets/pre-processing.png Graphic file (type png)
 <use assets/pre-processing.png>
 Package pdftex.def Info: assets/pre-processing.png  used on input line 14.
 (pdftex.def)             Requested size: 237.88815pt x 247.67468pt.
 
 Underfull \hbox (badness 1331) in paragraph at lines 15--15
-[]\OT1/cmr/m/n/10 Figure 2.1: Image Credits: MSC Thesis Examination (Presentation) -
+[]\OT1/cmr/m/n/10 Figure 3.1: Image Credits: MSC Thesis Examination (Presentation) -
  []
 
 
 Overfull \hbox (4.25056pt too wide) in paragraph at lines 18--20
-[]\OT1/cmr/m/n/10 Color channel separation as shown in the figure 2.1[] which aims at decomposing
+[]\OT1/cmr/m/n/10 Color channel separation as shown in the figure 3.1[] which aims at decomposing
  []
 
 
@@ -633,46 +702,55 @@ Overfull \hbox (0.90817pt too wide) in paragraph at lines 18--20
 \OT1/cmr/m/n/10 distinct kinds that involve hematoxylin, Eosin and residuals. Upon investigation,
  []
 
-[7 <./assets/pre-processing.png>]
-<assets/JaccardSimilarity.png, id=43, 995.72pt x 568.1225pt>
+[11 <./assets/pre-processing.png>]
+<assets/JaccardSimilarity.png, id=59, 995.72pt x 568.1225pt>
 File: assets/JaccardSimilarity.png Graphic file (type png)
 <use assets/JaccardSimilarity.png>
-Package pdftex.def Info: assets/JaccardSimilarity.png  used on input line 38.
+Package pdftex.def Info: assets/JaccardSimilarity.png  used on input line 34.
 (pdftex.def)             Requested size: 199.14047pt x 113.62248pt.
-) [8 <./assets/JaccardSimilarity.png>] [9]
-Chapter 3.
+ [12 <./assets/JaccardSimilarity.png>]
+Overfull \hbox (16.81392pt too wide) in paragraph at lines 49--50
+ \OT1/cmr/bx/n/10 Pre-training phase \OT1/cmr/m/n/10 During the pre-training phase, the histopathological BrekHis
+ []
+
+)
+Overfull \hbox (15.85251pt too wide) in paragraph at lines 52--67
+\OT1/cmr/m/n/10 around 11 samples were collected of cytological images. Furthermore, the cytological
+ []
+
+[13]
+Chapter 4.
 (chapters/conclusion.tex)
-Overfull \hbox (25.66733pt too wide) in paragraph at lines 5--68
+Overfull \hbox (25.66733pt too wide) in paragraph at lines 5--71
 \OT1/cmr/m/n/10 Furthermore, the utilization of the light-weight network is also taken into consideration
  []
 
-[10
+[14
 
-] (report.bbl [11]
-Underfull \hbox (badness 6876) in paragraph at lines 32--35
-[]\OT1/cmr/m/n/10 C. C. Society. (2020) Breast cancer statistics. $https : / / cancer . ca / en /
- []
+] (report.bbl [15] [16
 
-
-Underfull \hbox (badness 1466) in paragraph at lines 63--66
+]
+Underfull \hbox (badness 1466) in paragraph at lines 90--93
 []\OT1/cmr/m/n/10 S. Rashid, ``What is image normalization?'' Oct
  []
 
-) [12
+) [17] (report.aux)
 
-] (report.aux) ) 
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 28057 strings out of 478338
- 729543 string characters out of 2833801
- 1131093 words of memory out of 3000000
- 46002 multiletter control sequences out of 15000+600000
+ 28523 strings out of 478338
+ 739639 string characters out of 2833801
+ 1153536 words of memory out of 3000000
+ 46461 multiletter control sequences out of 15000+600000
  476200 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,89p,1238b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
-</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on report.pdf (13 pages, 968678 bytes).
+ 84i,16n,89p,1238b,1147s stack positions out of 10000i,1000n,20000p,200000b,80000s
+</Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (18 pages, 1274714 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
+ 132 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

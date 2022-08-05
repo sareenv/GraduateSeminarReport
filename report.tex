@@ -8,7 +8,7 @@
 \usepackage{adjustbox}
 \usepackage{babel,blindtext}
 \usepackage{setspace}
-
+% \usepackage[export]{adjustbox}
 \usepackage{tikz,pgfplots,pgf}
 \usetikzlibrary{matrix,shapes,arrows,positioning}
 
@@ -50,14 +50,17 @@
 \section*{List of Abbreviation}
 \input{chapters/abbreviations}
 
+\section*{Acknowledgement}
+\input{chapters/acknote}
+
 % here we need to also have the list of symbols or the abbrevations. 
 \tableofcontents
 \onehalfspacing
 \chapter{Introduction}
 \input{chapters/introduction}
 
-% \chapter{Background}
-% \input{chapters/background}
+\chapter{Background}
+\input{chapters/background}
 
 \chapter{Technical contribution}
 \input{chapters/contribution}
